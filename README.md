@@ -59,7 +59,7 @@
 - Git
 - MongoDB
 
- ![Skills](https://skillicons.dev/icons?i=js,html,css,sass,js,react,redux,mongodb,nodejs,angular,vite,bash,jquery,php,linux,py&perline=8)
+ ![Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,redux,mongodb,nodejs,angular,vite,bash,jquery,php,linux,py&perline=5)
 
 ### Let's Connect
 
