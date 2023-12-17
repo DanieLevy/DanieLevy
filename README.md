@@ -18,6 +18,13 @@
 - 💻 Passionate about self-learning, expanding knowledge, and active on social networks.
 
 ### My Projects
+#### 🆕 Ramel Barbershop - *Still under development(!)*
+- The last personal project I'm working on. The project focuses on building a site for managing and booking appointments for a hair salon inspired by the MyTor app.
+The project, including client side and server side, authentication through SMS, firebase, and complex time management through timestamps.
+- *Support Mobile only (for now).
+- [Link to the project](https://ramel-barbershop.netlify.app/)
+- Note: May take few minutes until backend service will goes up.
+
 #### 🆕 AirNest - Final course project
 - A flagship project that showcases my skills in 1:1 UI design and Full CRUDL functionalities.
 - - Backend using Atlas mongoDB
